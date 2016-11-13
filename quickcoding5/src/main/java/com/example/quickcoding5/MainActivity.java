@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
             cnt_str++;
             edit_text.setText(null);
 
-
         }
 
     }
