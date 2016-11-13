@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void send(View v) {
 
-        String edit_str = String.valueOf(edit_text.getText());
+        String edit_str = edit_text.getText().toString();
 
         try{
 
