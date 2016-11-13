@@ -10,20 +10,17 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    static ArrayList<String> arr_str = new ArrayList<>();
+    static ArrayList<Integer> arr_num = new ArrayList<>();
     Button send;
     Button complete;
     TextView str_view;
     TextView num_view;
     EditText edit_text;
-
     String print_str="";
     String print_num="";
-
     int cnt_str=0;
     int cnt_num=0;
-
-    static ArrayList<String> arr_str = new ArrayList<>();
-    static ArrayList<Integer> arr_num = new ArrayList<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -85,3 +82,4 @@ public class MainActivity extends AppCompatActivity {
     }
 
     }
+
