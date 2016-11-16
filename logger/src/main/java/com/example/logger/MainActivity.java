@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         long now = System.currentTimeMillis();
         Date date = new Date(now);
 
+
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy년 MM월 dd일");
         etDate.setText(simpleDateFormat.format(date));
 

@@ -25,9 +25,9 @@ public class DBHelper extends SQLiteOpenHelper {
 
     }
 
-    public void insert(String create_at, String item, String price) { //data, item, price
+    public void insert(String create_at, String content, String location) {
         SQLiteDatabase db = getWritableDatabase();
-        db.execSQL("INSERT INTO logger VALUES(null, '" + item + "', '"  + price + "', '" + create_at + "');");
+        db.execSQL("INSERT INTO logger VALUES(null, '" + content + "', '"  + location + "', '" + create_at + "');");
         db.close();
 
     }
