@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../gps" />
+            <option value="$PROJECT_DIR$/../hw1" />
+            <option value="$PROJECT_DIR$/../lifelogger" />
+            <option value="$PROJECT_DIR$/../logger" />
+            <option value="$PROJECT_DIR$/../mylocation" />
+            <option value="$PROJECT_DIR$/../mylogger" />
+            <option value="$PROJECT_DIR$/../quickcoding1" />
+            <option value="$PROJECT_DIR$/../quickcoding2" />
+            <option value="$PROJECT_DIR$/../quickcoding5" />
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../gps" />
+            <option value="$PROJECT_DIR$/../hw1" />
+            <option value="$PROJECT_DIR$/../lifelogger" />
+            <option value="$PROJECT_DIR$/../logger" />
+            <option value="$PROJECT_DIR$/../mylocation" />
+            <option value="$PROJECT_DIR$/../mylogger" />
+            <option value="$PROJECT_DIR$/../quickcoding1" />
+            <option value="$PROJECT_DIR$/../quickcoding2" />
+            <option value="$PROJECT_DIR$/../quickcoding5" />
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
